@@ -1,0 +1,25 @@
+{
+  "name": "bharat-grocery-pos",
+  "version": "1.0.0",
+  "description": "Bharat Grocery POS Terminal",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "QuickDevelopers",
+  "license": "ISC",
+  "build": {
+    "appId": "com.bharatgrocery.pos",
+    "win": {
+      "target": "nsis",
+      "icon": "resources/icon.ico"
+    },
+    "extraResources": [
+      {
+        "from": "resources/print-agent.exe",
+        "to": "print-agent.exe"
+      }
+    ]
+  }
+}

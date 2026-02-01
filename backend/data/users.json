@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Super Admin",
+    "email": "admin@pos.com",
+    "password": "$2a$10$UqqbVH8TIYldWDMuvcYa6.qhcczTobcztbytWZP7NIB0MstKn1lqS",
+    "role": "admin",
+    "status": "active",
+    "_id": "1769102746598h12zslaco",
+    "createdAt": "2026-01-22T17:25:46.598Z",
+    "updatedAt": "2026-01-31T16:33:19.009Z"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "email": "staff@pos.com",
+    "password": "$2a$10$WW11tkWCY3LSK63Jqiz65erHmlTHaxfpqgVnD4H5h9LxE8YC4a6Ni",
+    "role": "employee",
+    "status": "active",
+    "_id": "1769102746599staff001",
+    "createdAt": "2026-02-01T18:30:00.000Z",
+    "updatedAt": "2026-02-01T18:30:00.000Z"
+  },
+  {
+    "name": "Priya Sharma",
+    "email": "cashier@pos.com",
+    "password": "$2a$10$n7O5z/g35F7fCxsAbVrGd.0U8fArOMQ.NKJVFKvG1/s8japG6/Scu",
+    "role": "employee",
+    "status": "active",
+    "_id": "1769102746600cashier01",
+    "createdAt": "2026-02-01T18:30:00.000Z",
+    "updatedAt": "2026-02-01T18:30:00.000Z"
+  },
+  {
+    "name": "prasad",
+    "email": "prasadkayala2@gmail.com",
+    "password": "$2a$10$BkNf1JRv0TYnUGCZtRqf8u.cx56zdH/06KN0JNcqNqE8VuyGp6chm",
+    "role": "employee",
+    "_id": "1769106200791klmyucc99",
+    "createdAt": "2026-01-22T18:23:20.791Z",
+    "updatedAt": "2026-01-22T18:23:20.791Z"
+  }
+]

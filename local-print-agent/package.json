@@ -1,0 +1,23 @@
+{
+    "name": "print-agent-local",
+    "scripts": {
+        "build": "pkg ."
+    },
+    "bin": "print-agent.js",
+    "pkg": {
+        "targets": [
+            "node18-win-x64"
+        ],
+        "outputPath": "dist"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "escpos": "^3.0.0-alpha.6",
+        "escpos-usb": "^3.0.0-alpha.4",
+        "express": "^4.19.2"
+    },
+    "devDependencies": {
+        "pkg": "^5.8.1"
+    }
+}

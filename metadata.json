@@ -1,0 +1,7 @@
+{
+  "name": "BharatGrocery POS",
+  "description": "A production-ready GST-compliant POS system for Indian grocery stores featuring role-based access, inventory management, and real-time billing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

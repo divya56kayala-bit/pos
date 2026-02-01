@@ -1,0 +1,38 @@
+[
+  {
+    "name": "stored rice",
+    "barcode": "5649825",
+    "category": "rice",
+    "price": 1300,
+    "costPrice": 1800,
+    "gst": 5,
+    "stock": 73,
+    "_id": "1769107478284mwu5jyhy3",
+    "createdAt": "2026-01-22T18:44:38.284Z",
+    "updatedAt": "2026-01-23T06:55:58.641Z"
+  },
+  {
+    "name": "oil",
+    "barcode": "58479",
+    "category": "oil",
+    "price": 2100,
+    "costPrice": 2200,
+    "gst": 5,
+    "stock": 0,
+    "_id": "176914698457464eemjxa7",
+    "createdAt": "2026-01-23T05:43:04.574Z",
+    "updatedAt": "2026-01-23T06:28:55.543Z"
+  },
+  {
+    "name": "Test Product",
+    "barcode": "BAR_1769157009031",
+    "category": "TestCat_1769157009022",
+    "price": 100,
+    "costPrice": 80,
+    "gst": 18,
+    "stock": 48,
+    "_id": "1769157009035d7sd21zkn",
+    "createdAt": "2026-01-23T08:30:09.035Z",
+    "updatedAt": "2026-01-23T08:30:09.043Z"
+  }
+]

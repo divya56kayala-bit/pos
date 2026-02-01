@@ -1,0 +1,446 @@
+[
+  {
+    "billNo": "INV-20260001",
+    "items": [
+      {
+        "price": 1300,
+        "gst": 5,
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1
+      }
+    ],
+    "total": 1365,
+    "gstTotal": 65,
+    "paymentMode": "Cash",
+    "customer": null,
+    "customerId": null,
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T05:14:54.764Z",
+    "_id": "17691452947634d0g83l2k",
+    "updatedAt": "2026-01-23T05:14:54.764Z"
+  },
+  {
+    "billNo": "INV-20260002",
+    "items": [
+      {
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 6,
+        "price": 1300,
+        "gst": 5
+      }
+    ],
+    "total": 8190,
+    "gstTotal": 390,
+    "paymentMode": "Cash",
+    "customer": null,
+    "customerId": null,
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T05:37:34.520Z",
+    "_id": "1769146654520zflfu8h50",
+    "updatedAt": "2026-01-23T05:37:34.520Z"
+  },
+  {
+    "billNo": "INV-20260003",
+    "items": [
+      {
+        "productId": "176914698457464eemjxa7",
+        "name": "oil",
+        "qty": 1,
+        "price": 2100,
+        "gst": 5
+      }
+    ],
+    "total": 2205,
+    "gstTotal": 105,
+    "paymentMode": "UPI",
+    "customer": null,
+    "customerId": null,
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T05:43:18.181Z",
+    "_id": "1769146998181dvhu66rf2",
+    "updatedAt": "2026-01-23T05:43:18.181Z"
+  },
+  {
+    "billNo": "INV-20260004",
+    "items": [
+      {
+        "price": 1300,
+        "gst": 5,
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1
+      }
+    ],
+    "total": 1365,
+    "gstTotal": 65,
+    "paymentMode": "Cash",
+    "customer": {
+      "name": "Test Customer",
+      "phone": "9998887776"
+    },
+    "customerId": "1769147287711vlvd42mb6",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T05:48:07.716Z",
+    "_id": "1769147287716g7oig5o3o",
+    "updatedAt": "2026-01-23T05:48:07.716Z"
+  },
+  {
+    "billNo": "INV-20260005",
+    "items": [
+      {
+        "price": 1300,
+        "gst": 5,
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1
+      }
+    ],
+    "total": 1365,
+    "gstTotal": 65,
+    "paymentMode": "Cash",
+    "customer": {
+      "name": "Test Customer",
+      "phone": "9998887776"
+    },
+    "customerId": "1769147287711vlvd42mb6",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T05:48:07.777Z",
+    "_id": "1769147287777wlqw4j09y",
+    "updatedAt": "2026-01-23T05:48:07.777Z"
+  },
+  {
+    "billNo": "INV-20260006",
+    "items": [
+      {
+        "productId": "176914698457464eemjxa7",
+        "name": "oil",
+        "qty": 2,
+        "price": 2100,
+        "gst": 5
+      }
+    ],
+    "total": 4410,
+    "gstTotal": 210,
+    "paymentMode": "UPI",
+    "customer": null,
+    "customerId": null,
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T05:54:58.244Z",
+    "_id": "1769147698244bc3u777vi",
+    "updatedAt": "2026-01-23T05:54:58.244Z"
+  },
+  {
+    "billNo": "INV-20260007",
+    "items": [
+      {
+        "productId": "176914698457464eemjxa7",
+        "name": "oil",
+        "qty": 1,
+        "price": 2100,
+        "gst": 5
+      },
+      {
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1,
+        "price": 1300,
+        "gst": 5
+      }
+    ],
+    "total": 3570,
+    "gstTotal": 170,
+    "paymentMode": "Cash",
+    "customer": null,
+    "customerId": null,
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T06:02:15.279Z",
+    "_id": "17691481352790c9w1qa85",
+    "updatedAt": "2026-01-23T06:02:15.279Z"
+  },
+  {
+    "billNo": "INV-20260008",
+    "items": [
+      {
+        "price": 100,
+        "gst": 0,
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "Test Item",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "gstTotal": 0,
+    "paymentMode": "Cash",
+    "customer": {
+      "name": "Linked User",
+      "phone": "9988776655"
+    },
+    "customerId": "17691486725652shhi4do2",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T06:11:12.569Z",
+    "_id": "1769148672569tu3bl9f6r",
+    "updatedAt": "2026-01-23T06:11:12.569Z"
+  },
+  {
+    "billNo": "INV-20260009",
+    "items": [
+      {
+        "productId": "176914698457464eemjxa7",
+        "name": "oil",
+        "qty": 1,
+        "price": 2100,
+        "gst": 5
+      },
+      {
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1,
+        "price": 1300,
+        "gst": 5
+      }
+    ],
+    "total": 3570,
+    "gstTotal": 170,
+    "paymentMode": "UPI",
+    "customer": null,
+    "customerId": null,
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T06:26:11.368Z",
+    "_id": "1769149571368ochnrd2a2",
+    "updatedAt": "2026-01-23T06:26:11.368Z"
+  },
+  {
+    "billNo": "INV-20260010",
+    "items": [
+      {
+        "productId": "176914698457464eemjxa7",
+        "name": "oil",
+        "qty": 1,
+        "price": 2100,
+        "gst": 5
+      }
+    ],
+    "total": 2205,
+    "gstTotal": 105,
+    "paymentMode": "UPI",
+    "customer": {
+      "name": "prasad",
+      "phone": "8074896216"
+    },
+    "customerId": "1769149735549hpng9310v",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T06:28:55.558Z",
+    "_id": "1769149735558f8zahkuyc",
+    "updatedAt": "2026-01-23T06:28:55.558Z"
+  },
+  {
+    "billNo": "INV-20260011",
+    "items": [
+      {
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1,
+        "price": 1300,
+        "gst": 5
+      }
+    ],
+    "total": 1365,
+    "gstTotal": 65,
+    "paymentMode": "Cash",
+    "customer": {
+      "name": "prasad",
+      "phone": "9347069498"
+    },
+    "customerId": "17691502553288eg7h3hrq",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T06:37:35.335Z",
+    "_id": "1769150255335co9j48d78",
+    "updatedAt": "2026-01-23T06:37:35.335Z"
+  },
+  {
+    "billNo": "INV-20260012",
+    "items": [
+      {
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1,
+        "price": 1300,
+        "gst": 5
+      }
+    ],
+    "total": 1365,
+    "gstTotal": 65,
+    "paymentMode": "Cash",
+    "customer": {
+      "name": "prasad",
+      "phone": "8074896216"
+    },
+    "customerId": "1769149735549hpng9310v",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T06:38:03.157Z",
+    "_id": "1769150283157fi2w6ntfz",
+    "updatedAt": "2026-01-23T06:38:03.157Z"
+  },
+  {
+    "billNo": "INV-20260013",
+    "items": [
+      {
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1,
+        "price": 1300,
+        "gst": 5
+      }
+    ],
+    "total": 1365,
+    "gstTotal": 65,
+    "paymentMode": "Cash",
+    "customer": {
+      "name": "prasad",
+      "phone": "8074896216"
+    },
+    "customerId": "1769149735549hpng9310v",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Super Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Super Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T06:44:07.351Z",
+    "_id": "17691506473518cut1k8g7",
+    "updatedAt": "2026-01-23T06:44:07.351Z"
+  },
+  {
+    "billNo": "INV-20260014",
+    "items": [
+      {
+        "productId": "1769107478284mwu5jyhy3",
+        "name": "stored rice",
+        "qty": 1,
+        "price": 1300,
+        "gst": 5
+      }
+    ],
+    "total": 1365,
+    "gstTotal": 65,
+    "paymentMode": "UPI",
+    "customer": null,
+    "customerId": null,
+    "employeeId": "1769106200791klmyucc99",
+    "employeeName": "prasad",
+    "billedBy": {
+      "userId": "1769106200791klmyucc99",
+      "name": "prasad",
+      "role": "employee"
+    },
+    "createdAt": "2026-01-23T06:55:58.648Z",
+    "_id": "17691513586483uugl5c9s",
+    "updatedAt": "2026-01-23T06:55:58.648Z"
+  },
+  {
+    "billNo": "INV-20260015",
+    "items": [
+      {
+        "productId": "1769157009035d7sd21zkn",
+        "name": "Test Product",
+        "qty": 2,
+        "price": 100,
+        "gst": 18,
+        "amount": 200
+      }
+    ],
+    "total": 236,
+    "gstTotal": 36,
+    "paymentMode": "Cash",
+    "customer": {
+      "name": "Test Customer",
+      "phone": "9999999999"
+    },
+    "customerId": "176915700904529rl4t5cn",
+    "employeeId": "1769102746598h12zslaco",
+    "employeeName": "Admin",
+    "billedBy": {
+      "userId": "1769102746598h12zslaco",
+      "name": "Admin",
+      "role": "admin"
+    },
+    "createdAt": "2026-01-23T08:30:09.047Z",
+    "_id": "17691570090478990zr5q9",
+    "updatedAt": "2026-01-23T08:30:09.047Z"
+  }
+]
